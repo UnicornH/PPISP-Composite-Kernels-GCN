@@ -10,7 +10,7 @@ This repository is the implementation of "Protein-Protein Interaction Site Predi
 This repository is partially dependent on 'pytorch'.
 
 ## 2. Running
-Please see the trainval.py for an example of running with different datasets in the 'dataset' folder.
+Please see the trainval.py for an example.
 
 ## 3. Acknowledgment
 Part of the codes refers to the ProteinGCN.
