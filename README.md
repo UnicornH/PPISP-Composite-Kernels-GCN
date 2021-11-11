@@ -9,11 +9,8 @@ This repository is the implementation of "Protein-Protein Interaction Site Predi
 #### Dependency
 This repository is partially dependent on 'pytorch' ,'torch_scatter'.
 
-## 2. Running
-Please see the trainval.py for an example.
-
-## 3. Acknowledgment
+## 2. Acknowledgment
 Part of the codes refers to the ProteinGCN.
 
-## 4. Others
+## 3. Others
 This repository will continue updating.  
