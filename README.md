@@ -13,4 +13,4 @@ This repository is partially dependent on 'pytorch' ,'torch_scatter'.
 Part of the codes refers to the ProteinGCN.
 
 ## 3. Others
-This repository will continue updating.  
+This repository will continue updating when paper published.  
