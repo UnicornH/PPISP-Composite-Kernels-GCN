@@ -7,7 +7,7 @@ This repository is the implementation of "Protein-Protein Interaction Site Predi
 ## 1. Setup
 
 #### Dependency
-This repository is partially dependent on 'pytorch'.
+This repository is partially dependent on 'pytorch' ,'torch_scatter'.
 
 ## 2. Running
 Please see the trainval.py for an example.
